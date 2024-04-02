@@ -1,4 +1,5 @@
-# include <stdio.h> /*printf()*/
+/*Biblioteca/Cabeçalhos*/
+# include <stdio.h> /*printf(), scanf()*/
 
 /*Cole no prompt de comando a seguinte código (Lembre-se de estar no diretorio do local do arquivo com extensao .c e com o gcc instalado)*/
 /*gcc desafio02.c -o desafio.exe -Wall -pedantic -Werror*/
