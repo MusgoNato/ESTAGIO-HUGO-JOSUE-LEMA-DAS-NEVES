@@ -2,6 +2,12 @@
 # include <stdio.h> /*printf()*/
 # include <string.h> /*strlen()*/
 
+/*Cole no prompt de comando a seguinte código (Lembre-se de estar no diretorio do local do arquivo com extensao .c e com o gcc instalado)*/
+/*gcc desafio05.c -o desafio05.exe -Wall -pedantic -Werror*/
+/*Apos colado aperte enter, o programa compilara e gerara um executavel*/
+/*Agora cole este código abaixo no prompt de comando*/
+/*desafio02.exe*/
+
 /*Programa principal*/
 int main(int argc, char *argv[])
 {
@@ -20,6 +26,8 @@ int main(int argc, char *argv[])
         string[i] = string[tam - i - 1];
         string[tam - i - 1] = troca;    
    }
+
+   /*Impressão*/
    printf("%s", string);
    return 0;
 }

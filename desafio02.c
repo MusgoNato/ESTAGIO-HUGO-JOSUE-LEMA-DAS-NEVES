@@ -2,7 +2,7 @@
 # include <stdio.h> /*printf(), scanf()*/
 
 /*Cole no prompt de comando a seguinte código (Lembre-se de estar no diretorio do local do arquivo com extensao .c e com o gcc instalado)*/
-/*gcc desafio02.c -o desafio.exe -Wall -pedantic -Werror*/
+/*gcc desafio02.c -o desafio02.exe -Wall -pedantic -Werror*/
 /*Apos colado aperte enter, o programa compilara e gerara um executavel*/
 /*Agora cole este código abaixo no prompt de comando*/
 /*desafio02.exe*/
